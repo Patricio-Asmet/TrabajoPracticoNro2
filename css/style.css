@@ -1,0 +1,8 @@
+/*Estilo matriz ejercicio 10*/
+table, td{
+    border: 1px solid rgb(6, 67, 208);
+}
+
+td{
+    padding: 5px;
+}
