@@ -14,7 +14,7 @@ for (let i = 0; i < texto.length; i++) {
 }
 
 if (posicionPrimeraVocal !== -1) {
-    console.log("La primera vocal está en la posición: " + posicionPrimeraVocal);
+    document.write("La primera vocal está en la posición: " + posicionPrimeraVocal);
 } else {
-    console.log("No se encontraron vocales en el texto.");
+    document.write("No se encontraron vocales en el texto.");
 }
